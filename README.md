@@ -1,5 +1,5 @@
 # Gigatool API Wrapper
-> Gigatool API Wrapper, [More about gigatool](http://www.gigatools.com/)
+> Gigatool API Wrapper, [more about gigatool](http://www.gigatools.com/)
 
 ## Installation
 ```
