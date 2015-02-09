@@ -12,7 +12,7 @@ describe('gigatool apis integration', function() {
   var api;
 
   before(function() {
-    api = require('./')(apiKey);
+    api = require('../')(apiKey);
   });
 
   describe('get by country', function() {
