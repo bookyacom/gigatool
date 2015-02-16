@@ -32,6 +32,22 @@ function returnEvents(body) {
   return body[1];
 }
 
+// module.exports = function (key) {
+//   return {
+//     gig : {
+//       byCountry : gig.byCountry,
+//       byVenue   : gig.byVenue,
+//       byCity    : gig.byCity,
+//       list      : gig.list
+//     },
+//     user : {
+//       bySoundCloud : user.bySoundCloud,
+//       byMixCloud   : user.byMixCloud,
+//       byTwitter    : user.byTwitter
+//     }
+//   };
+// }
+
 module.exports = function(apiKey) {
   return {
     country: function(countries) {
