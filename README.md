@@ -1,4 +1,4 @@
-# Gigatool API Wrapper
+# Gigatool API Wrapper [![Dependency Status](https://gemnasium.com/badges/github.com/bookyacom/gigatool.svg)](https://gemnasium.com/github.com/bookyacom/gigatool)
 > Gigatool API Wrapper, [more about gigatool](http://www.gigatools.com/)
 
 ## Installation
